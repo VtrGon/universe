@@ -1,0 +1,132 @@
+ /*fonte ========================================= */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+/* body principal =================== */
+
+ /* containers ==========================*/
+.cont{
+    width: 30%;
+    margin-left: 145px;
+    margin-top: 150px;
+    position: absolute;
+    
+    
+}
+.cont2{
+    
+    width: 30%;
+    
+    margin-top: 150px;
+    
+    
+    
+}
+.cont3{
+    display: block;
+    margin: 0;
+    padding: 0;
+    float: right;
+    
+}
+ /* textos ============================ */
+.text1{
+    font-size: 48px;
+    font-family: "Quicksand";
+    line-height: 2px;
+    margin-top: 0;
+    padding-top: 0;
+    
+    display: inline-block;
+}
+.text2{
+    line-height: 2px;
+    margin-top: 0;
+    padding-top: 0;
+    line-height: 0cm;
+    display: inline-block;
+    
+    
+    font-size: 96px;
+    font-family: "Quicksand";
+}
+
+ /*button ================================== */
+
+.butao{
+    font-size: 24px;
+    font-family: "Quicksand";
+    color: #CB7521;
+    padding: 10px;
+    border: 1px solid #CB7521;
+    background-color: transparent;
+    border-radius: 10px;
+}
+.butao:hover{
+    background-color: #CB7521;
+    color: #fff;
+    transition: 0.5s;
+}
+ /* imagens ============================== */
+.luluu1{
+    height: 
+    570px;
+    position: relative;
+    float: right;
+    
+    
+}
+/* setas ============= */
+.setinhas{
+    
+    width: 30%;
+    margin-left: 145px;
+    margin-top: 440px;
+    
+    
+}
+.setinhas p{
+    line-height: 5px;
+}
+.setinhas2{
+    width: 30%;
+    margin-left: 145px;
+    
+    
+}
+.up,.dow{
+    font-size: 29px;
+    
+}
+.setinhas2 p, .setinhas3 p{
+    font-size: 21px;
+    
+    
+}
+
+.setinhas2,.setinhas3{
+    display: flex;
+    align-items: center;
+    padding: 0;
+    font-family: "Quicksand";
+}
+.atual{
+    color:  #CB7521;
+    font-family: "Quicksand";
+    font-size: 20px;
+    line-height: 0px;
+    margin-bottom: 0px;
+    display: inline-block;
+    
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.setinhas2{
+    opacity: 0.5;
+}
+
+
+.actve{
+    transition: 0.5s;
+}
+.imagem{
+    transition: 0.5s;   
+}
